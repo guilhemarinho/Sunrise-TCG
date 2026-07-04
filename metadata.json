@@ -1,0 +1,6 @@
+{
+  "name": "Sunrise TCG",
+  "description": "Uma loja de Pokémon TCG cyberpunk oriental de elite, especializada em cartas raras com efeitos holográficos neon e busca avançada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
