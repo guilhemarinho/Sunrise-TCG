@@ -9,7 +9,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Secret Rare',
     price: 699.00,
     hp: 20,
-    imageUrl: '/images/booster_box_151_1783137088844.jpg',
+    imageUrl: '/src/assets/images/booster_box_151_1783137088844.jpg',
     illustrator: 'Creatures Inc.',
     attacks: [
       {
@@ -42,7 +42,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Hyper Rare',
     price: 379.00,
     hp: 10,
-    imageUrl: '/images/booster_box_shiny_1783137100920.jpg',
+    imageUrl: '/src/assets/images/booster_box_shiny_1783137100920.jpg',
     illustrator: 'Creatures Inc.',
     attacks: [
       {
@@ -75,7 +75,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Hyper Rare',
     price: 429.00,
     hp: 10,
-    imageUrl: '/images/booster_box_terastal_1783137112340.jpg',
+    imageUrl: '/src/assets/images/booster_box_terastal_1783137112340.jpg',
     illustrator: 'Creatures Inc.',
     attacks: [
       {
@@ -108,7 +108,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Hyper Rare',
     price: 499.00,
     hp: 15,
-    imageUrl: '/images/regenerated_image_1783177285820.png',
+    imageUrl: '/src/assets/images/regenerated_image_1783177285820.png',
     illustrator: 'Creatures Inc.',
     attacks: [
       {
@@ -135,7 +135,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Hyper Rare',
     price: 349.00,
     hp: 15,
-    imageUrl: '/images/booster_box_shiny_1783137100920.jpg',
+    imageUrl: '/src/assets/images/booster_box_shiny_1783137100920.jpg',
     illustrator: 'Creatures Inc.',
     attacks: [
       {
@@ -162,7 +162,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Ultra Rare',
     price: 279.00,
     hp: 15,
-    imageUrl: '/images/booster_box_terastal_1783137112340.jpg',
+    imageUrl: '/src/assets/images/booster_box_terastal_1783137112340.jpg',
     illustrator: 'Creatures Inc.',
     attacks: [
       {
@@ -189,7 +189,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Ultra Rare',
     price: 279.00,
     hp: 15,
-    imageUrl: '/images/booster_box_151_1783137088844.jpg',
+    imageUrl: '/src/assets/images/booster_box_151_1783137088844.jpg',
     illustrator: 'Creatures Inc.',
     attacks: [
       {
@@ -216,7 +216,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Ultra Rare',
     price: 299.00,
     hp: 15,
-    imageUrl: '/images/booster_box_shiny_1783137100920.jpg',
+    imageUrl: '/src/assets/images/booster_box_shiny_1783137100920.jpg',
     illustrator: 'Creatures Inc.',
     attacks: [
       {
@@ -243,7 +243,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Ultra Rare',
     price: 289.00,
     hp: 15,
-    imageUrl: '/images/booster_box_terastal_1783137112340.jpg',
+    imageUrl: '/src/assets/images/booster_box_terastal_1783137112340.jpg',
     illustrator: 'Creatures Inc.',
     attacks: [
       {
@@ -270,7 +270,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Ultra Rare',
     price: 329.00,
     hp: 15,
-    imageUrl: '/images/booster_box_shiny_1783137100920.jpg',
+    imageUrl: '/src/assets/images/booster_box_shiny_1783137100920.jpg',
     illustrator: 'Creatures Inc.',
     attacks: [
       {
@@ -297,7 +297,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Ultra Rare',
     price: 319.00,
     hp: 15,
-    imageUrl: '/images/booster_box_abysseye_exact_1783143194201.jpg',
+    imageUrl: '/src/assets/images/booster_box_abysseye_exact_1783143194201.jpg',
     illustrator: 'Creatures Inc.',
     attacks: [
       {
@@ -330,7 +330,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Secret Rare',
     price: 1199.00,
     hp: 200,
-    imageUrl: '/images/card_pikachu_ex_1783137432306.jpg',
+    imageUrl: '/src/assets/images/card_pikachu_ex_1783137432306.jpg',
     illustrator: 'Sanosuke Sakuma',
     attacks: [
       {
@@ -363,7 +363,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Secret Rare',
     price: 499.00,
     hp: 330,
-    imageUrl: '/images/card_charizard_ssr_1783137408257.jpg',
+    imageUrl: '/src/assets/images/card_charizard_ssr_1783137408257.jpg',
     illustrator: 'AKIRA EGawa',
     attacks: [
       {
@@ -390,7 +390,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Secret Rare',
     price: 289.00,
     hp: 0,
-    imageUrl: '/images/card_iono_sir_1783137420533.jpg',
+    imageUrl: '/src/assets/images/card_iono_sir_1783137420533.jpg',
     illustrator: 'kirisAki',
     attacks: [
       {
@@ -417,7 +417,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Hyper Rare',
     price: 179.00,
     hp: 0,
-    imageUrl: '/images/card_poffin_gold_1783137447023.jpg',
+    imageUrl: '/src/assets/images/card_poffin_gold_1783137447023.jpg',
     illustrator: 'Toyste Beach',
     attacks: [
       {
@@ -444,7 +444,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Special Illustration Rare',
     price: 1800.00,
     hp: 280,
-    imageUrl: '/images/mega_darkrai_sar_1783178707498.jpg',
+    imageUrl: '/src/assets/images/mega_darkrai_sar_1783178707498.jpg',
     illustrator: 'AKIRA EGAWA',
     attacks: [
       {
@@ -477,7 +477,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Hyper Rare',
     price: 3847.00,
     hp: 280,
-    imageUrl: '/images/mega_darkrai_gold_1783178718152.jpg',
+    imageUrl: '/src/assets/images/mega_darkrai_gold_1783178718152.jpg',
     illustrator: '5ban Graphics',
     attacks: [
       {
@@ -510,7 +510,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Special Illustration Rare',
     price: 279.00,
     hp: 0,
-    imageUrl: '/images/muku_supporter_1783178731797.jpg',
+    imageUrl: '/src/assets/images/muku_supporter_1783178731797.jpg',
     illustrator: 'Naoki Saito',
     attacks: [
       {
@@ -537,7 +537,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Special Illustration Rare',
     price: 237.00,
     hp: 180,
-    imageUrl: '/images/morpeko_ex_1783178748094.jpg',
+    imageUrl: '/src/assets/images/morpeko_ex_1783178748094.jpg',
     illustrator: 'NC Empire',
     attacks: [
       {
@@ -570,7 +570,7 @@ export const CARD_DATA: PokemonCard[] = [
     rarity: 'Special Illustration Rare',
     price: 222.00,
     hp: 270,
-    imageUrl: '/images/mega_zeraora_ex_1783178760620.jpg',
+    imageUrl: '/src/assets/images/mega_zeraora_ex_1783178760620.jpg',
     illustrator: 'GIDORA',
     attacks: [
       {
