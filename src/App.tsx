@@ -400,7 +400,7 @@ export default function App() {
               <div className="absolute inset-0 bg-gradient-to-tr from-transparent via-white/10 to-transparent -translate-x-full group-hover:translate-x-full duration-1000 transition-transform" />
               
               <img
-                src="/src/assets/images/sunrise_logo_1783136190528.jpg"
+                src="/images/sunrise_logo_1783136190528.jpg"
                 alt="Sunrise TCG Logo"
                 className="w-full h-auto object-cover rounded-xl shadow-lg border border-zinc-950/80"
                 referrerPolicy="no-referrer"
